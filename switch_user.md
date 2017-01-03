@@ -4,6 +4,7 @@ git config --global user.name “your-1”
 
 git config --global user.email “your@gmail.com"
 
-clone or do this, seems to work again!
+The folder in git then knows which repository it is being pushed to.
 
-git remote add origin https://github.com/your-1/hello-world
+Then prompts for a password.  Or just clone a new project.
+
